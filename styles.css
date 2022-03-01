@@ -1,0 +1,15 @@
+html * {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header {
+    background-color: bisque;
+    color: black;
+}
+h1 {
+    text-align: center;
+}
+.description {
+    color: rgb(48, 33, 5);
+    font-size: 16px;
+    text-align: center;
+}
